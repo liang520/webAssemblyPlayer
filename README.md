@@ -10,6 +10,6 @@
 
 ## 项目开发步骤
 
-> - 视频流来源(编码流需要是 h265)
+> - 视频流来源(编码流需要是 h265) [视频来源](https://gw.alicdn.com/bao/uploaded/LB1l2iXISzqK1RjSZFjXXblCFXa.mp4)
 > - 线上服务/本地视频流服务
 > - 本地解决方案
